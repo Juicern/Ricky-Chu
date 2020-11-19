@@ -1,4 +1,4 @@
-### Hi there 👋
+### TALK IS CHEAP SHOW ME YOUR CODE 👋
 
 <!--
 **Ricky-Chu/Ricky-Chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
